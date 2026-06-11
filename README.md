@@ -1,5 +1,3 @@
-# Project-PCD-Group10-Tea-Sickness-Classification-2026
-
 <h1>Project PCD 2026 - Kelompok 10</h1>
 
 <h2>Anggota</h2>
