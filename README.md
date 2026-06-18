@@ -1,5 +1,8 @@
 <h1>Project PCD 2026 - Kelompok 10</h1>
 
+<h2>Judul</h2>
+<p>Klasifikasi Penyakit Teh pada Citra Daun Teh Menggunakan Ekstraksi Fitur GLCM dan Transformasi Wavelet dengan Metode KNN, SVM, dan Random Forest</p>
+
 <h2>Anggota</h2>
 <table>
     <th>Nama</th>
@@ -21,9 +24,6 @@
         <td>F1D02411002</td>
     <tr/>
 </table>
-
-<h2>Judul</h2>
-<p>Klasifikasi Penyakit Teh pada Citra Daun Teh Menggunakan Ekstraksi Fitur GLCM dan Transformasi Wavelet dengan Metode KNN, SVM, dan Random Forest</p>
 
 <h2>Dataset</h2>
 <a href="https://www.kaggle.com/datasets/mexwell/tea-sickness-dataset">Tea Sickness Dataset</a>
