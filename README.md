@@ -30,6 +30,6 @@
 <p>Label:</p>
 <ol>
     <li>Healthy  : 74 data</li>
-    <li>Anthracnose   : 100 data</li>
-    <li>Bird Eye Spot   : 100 data</li>
+    <li>Anthracnose   : 74 data</li>
+    <li>Bird Eye Spot   : 74 data</li>
 </ol>
